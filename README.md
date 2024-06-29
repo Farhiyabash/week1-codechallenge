@@ -1,4 +1,5 @@
 # PHASE-1 WEEK 1 CODE CHALLENGE
+## All challenges were done using javascript
 
 ### CODE CHALLENGE 1- Student Grade Calculator :    The aim of this challenge is to calculate the grade which is based on the input marks of the students. It has a function gradeGenerator which takes an input between 0-100 and gives the output of the accurate grade.
 
@@ -9,4 +10,3 @@
 ## Author 
 ### Farhiya Bashir 
 
-## All challenges were done using javascript
